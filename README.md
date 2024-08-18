@@ -1,6 +1,6 @@
 # Surfs Up in LA
 
-I love surfing, so I created this in 2023 app with another surfer friend that displays the live surf conditions for LA beaches. Users can select from 7 tracked beach locations, each displaying relevant surf and weather data in a simplified, user-friendly layout. 
+Surf is life, I love surfing. I created this in 2023 app with another surfer friend that displays the live surf conditions for LA beaches. Local surfers here can select from 7 tracked beach locations, each displaying relevant surf and weather data in a simplified, user-friendly layout. Let's get gnarly baby!
 
 ## Features
 
