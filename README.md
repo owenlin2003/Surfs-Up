@@ -1,6 +1,6 @@
 # Surfs Up in LA
 
-This app displays up-to-date surf conditions for beaches along the Los Angeles coastline. Users can select from seven tracked beach locations, each displaying relevant surf and weather data in a simplified, user-friendly layout. 
+I love surfing, so I created this app with another surfer friend that displays the live surf conditions for LA beaches. Users can select from 7 tracked beach locations, each displaying relevant surf and weather data in a simplified, user-friendly layout. 
 
 ## Features
 
